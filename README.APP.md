@@ -75,7 +75,7 @@ https://gitlab.dev-vps.ru/dtszn/html/-/tree/master/html/lk
 ### 3.1 Клонирование проекта
 
 ```
-git clone --progress -v "https://gitlab.dev-vps.ru/gpn/master.git" "c:\projects\dtszn\master"
+git clone --progress -v "https://gitlab.dev-vps.ru/dtszn/master.git" "c:\projects\dtszn\master"
 ```
 где *c:\projects\dtszn* - локальный путь к проекту
 
